@@ -4,5 +4,5 @@ Used express and handlebars to call from a mysql database that will allow the us
 # technologies used
 javascript, mysql, handlebars, express, jquery
 
-#Authors
+# Authors
 Alton Shu
